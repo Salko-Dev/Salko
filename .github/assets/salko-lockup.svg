@@ -1,9 +1,9 @@
 <svg width="402" height="96" viewBox="0 0 402 96" fill="none" xmlns="http://www.w3.org/2000/svg">
 <title>Salko</title>
-  <rect x="8" y="3" width="80" height="14" rx="3" fill="currentColor"/>
-  <rect x="8" y="22" width="26" height="14" rx="3" fill="currentColor"/>
+  <rect x="8" y="3" width="80" height="14" rx="3" fill="#171B24"/>
+  <rect x="8" y="22" width="26" height="14" rx="3" fill="#171B24"/>
   <rect x="8" y="41" width="80" height="14" rx="3" fill="#E8A33D"/>
-  <rect x="62" y="60" width="26" height="14" rx="3" fill="currentColor"/>
-  <rect x="8" y="79" width="80" height="14" rx="3" fill="currentColor"/>
-  <text x="124" y="66" font-family="Geist,'Geist Sans','SF Pro Display',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="600" letter-spacing="-2.49" fill="currentColor">salko<tspan fill="#6B7382" font-weight="400">.dev</tspan></text>
+  <rect x="62" y="60" width="26" height="14" rx="3" fill="#171B24"/>
+  <rect x="8" y="79" width="80" height="14" rx="3" fill="#171B24"/>
+  <text x="124" y="66" font-family="Geist,'Geist Sans','SF Pro Display',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="58" font-weight="600" letter-spacing="-2.49" fill="#171B24">salko<tspan fill="#6B7382" font-weight="400">.dev</tspan></text>
 </svg>
